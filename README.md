@@ -6,7 +6,7 @@ The maps currently are:
 | Map Name | File | Description |
 |---|---|---|
 | Dehaka With Spawn Brush | [DehakaWithSpawnBrush.stormmap](maps/DehakaWithSpawnBrush.stormmap) | Regular Dehaka, but with an extra ability to spawn a brush anywhere! You can Brushstalk (Z), get movement speed, etc, anywhere you like! |
-|  |  |  |
+| Deckard With Drawing | [DeckardWithDrawing.stormmap](maps/DeckardWithDrawing.stormmap) | Regular Deckard, but with an extra ability to freely draw any area and apply the Scroll of Sealing Effect to it. I call it the *Scroll of Freedom*! |
 |  |  |  |
 
 # Loading the maps
